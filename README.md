@@ -8,9 +8,9 @@
 
 Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Lehrjahr als Informatiker - Applikationsentwicklung. Ich wohne in Egg bei Einsiedeln im Kanton Schwyz. Das Programmieren fasziniert mich sehr und ich finde es spannend, was man damit alles erreichen kann. In meiner Freizeit spiele ich gerne Computer -und Konsolenspiele und treffe mich oft mit Freunden. Ausserdem höre ich häufig Musik und produziere sie auch manchmal selbst.
 
-- 🔭 I’m currently working at Swisscom in the Apps Team
+- 🔭 I’m currently working at Swisscom
 - 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on with other developers
+- 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
