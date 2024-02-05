@@ -449,11 +449,6 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
 - [**@{{ .Login }}**]({{ .URL }})
 {{- end }}
 
-### 📰 Recent Blog Posts
-{{ range rss "https://maximousblk.me/feed" 5 }}
-- [{{ .Title }}]({{ .URL }})
-{{- end }}
-
 <h3>This week i spent my time on:</h3>
 
 <!--START_SECTION:waka-->
