@@ -419,27 +419,71 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
   />
 </p>
 
+### 👷 Check out what I'm currently working on
+
+- [JonathanXDR/M450](https://github.com/JonathanXDR/M450) - 
+- [JonathanXDR/Application-Website-Frontend](https://github.com/JonathanXDR/Application-Website-Frontend) - My Personal Website
+- [JonathanXDR/Atom](https://github.com/JonathanXDR/Atom) - 
+- [JonathanXDR/Dotfiles](https://github.com/JonathanXDR/Dotfiles) - My dotfiles
+- [JonathanXDR/UEK-295](https://github.com/JonathanXDR/UEK-295) - 
+
+### 🌱 My latest projects
+
+- [JonathanXDR/M450](https://github.com/JonathanXDR/M450) - 
+- [JonathanXDR/Airflare](https://github.com/JonathanXDR/Airflare) - A Node.js library to discover and stream media to Apple AirPlay devices using multicast-dns.
+- [JonathanXDR/UEK-223](https://github.com/JonathanXDR/UEK-223) - 
+- [JonathanXDR/UEK-223-Extended-Hello-World](https://github.com/JonathanXDR/UEK-223-Extended-Hello-World) - 
+- [JonathanXDR/Dotfiles](https://github.com/JonathanXDR/Dotfiles) - My dotfiles
+
+### 🔨 My recent Pull Requests
+
+- [Develop](https://github.com/JonathanXDR/M450/pull/7) on [JonathanXDR/M450](https://github.com/JonathanXDR/M450)
+- [CI/CD Pipeline](https://github.com/JonathanXDR/M450/pull/5) on [JonathanXDR/M450](https://github.com/JonathanXDR/M450)
+- [[Snyk] Upgrade vue from 3.4.5 to 3.4.6](https://github.com/JonathanXDR/Application-Website-Frontend/pull/25) on [JonathanXDR/Application-Website-Frontend](https://github.com/JonathanXDR/Application-Website-Frontend)
+- [[Snyk] Security upgrade eslint-config-next from 14.0.3 to 14.1.0](https://github.com/JonathanXDR/Atom/pull/16) on [JonathanXDR/Atom](https://github.com/JonathanXDR/Atom)
+- [[Snyk] Security upgrade axios from 1.6.2 to 1.6.4](https://github.com/JonathanXDR/Game-Library-Frontend/pull/34) on [JonathanXDR/Game-Library-Frontend](https://github.com/JonathanXDR/Game-Library-Frontend)
+
+### 🔭 Latest releases I've contributed to
+
+- [JonathanXDR/Application-Website-Frontend](https://github.com/JonathanXDR/Application-Website-Frontend) [`v2.2.3`](https://github.com/JonathanXDR/Application-Website-Frontend/releases/tag/v2.2.3) - My Personal Website
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) [`v0.60.1`](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+
+### ⭐ Recent Stars
+
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [acidanthera/AppleALC](https://github.com/acidanthera/AppleALC) - Native macOS HD audio for not officially supported codecs
+- [OG-Jons/bms-notes](https://github.com/OG-Jons/bms-notes) - (Hopefully) everything I learn in different subjects throughout my time in BMS
+- [postlund/pyatv](https://github.com/postlund/pyatv) - A client library for Apple TV and AirPlay devices
+
+### 💖 Recent followers
+
+- [**@george0st**](https://github.com/george0st)
+- [**@simylein**](https://github.com/simylein)
+- [**@Maxi03milian**](https://github.com/Maxi03milian)
+- [**@peter-kimanzi**](https://github.com/peter-kimanzi)
+- [**@romanindermuehle**](https://github.com/romanindermuehle)
+
+### 📰 Recent Blog Posts
+
+- [Deno for JavaScript Beginners](https://maximousblk.me/posts/deno-for-javascript-beginners)
+- [Brute-forcing websites with Callow](https://maximousblk.me/posts/brute-forcing-websites-with-callow)
+- [Hello World](https://maximousblk.me/posts/hello-world)
+
 <h3>This week i spent my time on:</h3>
 
-<!--START_SECTION:waka-->
 
-<!-- ```txt
-TypeScript      7 hrs 14 mins   ████████████████░░░░░░░░░   64.03 %
-JavaScript      2 hrs 56 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.03 %
-Other           33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-JSON            25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-Bash            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-``` -->
 
-<!--END_SECTION:waka-->
+
+
+
 
 ![light](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
 
 ![dark](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
 
 <h3>GitHub stats</h3>
-<!-- <details>
-  <summary>GitHub Stats</summary> -->
+
 
 <picture>
   <source
@@ -477,7 +521,7 @@ Bash            5 mins          ▒░░░░░░░░░░░░░░░
   />
 </picture>
 
-<!-- </details> -->
+
 
 <h3>Where to find me</h3>
 <p>
@@ -525,4 +569,3 @@ Bash            5 mins          ▒░░░░░░░░░░░░░░░
     alt="Forks"
     src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"
   />
-</p>
