@@ -450,11 +450,11 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
 
 ### ⭐ Recent Stars
 
+- [avinal/Profile-Readme-WakaTime](https://github.com/avinal/Profile-Readme-WakaTime) - Generate coding activity graph tracked by WakaTime to embed in Readme(s) and webpages.
+- [dvjn/wakatime-charts](https://github.com/dvjn/wakatime-charts) - Generate beautiful SVG charts using your Wakatime stats.
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [acidanthera/AppleALC](https://github.com/acidanthera/AppleALC) - Native macOS HD audio for not officially supported codecs
-- [OG-Jons/bms-notes](https://github.com/OG-Jons/bms-notes) - (Hopefully) everything I learn in different subjects throughout my time in BMS
-- [postlund/pyatv](https://github.com/postlund/pyatv) - A client library for Apple TV and AirPlay devices
 
 ### 💖 Recent followers
 
