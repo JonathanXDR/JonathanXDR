@@ -464,12 +464,6 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
 - [**@peter-kimanzi**](https://github.com/peter-kimanzi)
 - [**@romanindermuehle**](https://github.com/romanindermuehle)
 
-### 📰 Recent Blog Posts
-
-- [Deno for JavaScript Beginners](https://maximousblk.me/posts/deno-for-javascript-beginners)
-- [Brute-forcing websites with Callow](https://maximousblk.me/posts/brute-forcing-websites-with-callow)
-- [Hello World](https://maximousblk.me/posts/hello-world)
-
 <h3>This week i spent my time on:</h3>
 
 
