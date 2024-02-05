@@ -474,15 +474,13 @@ Bash            5 mins          ▒░░░░░░░░░░░░░░░
 <picture>
   <source
     srcset="
-      https://github-readme-stats.vercel.app/api?username=jonathanxdr&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark
+      https://github-readme-stats.vercel.app/api?username=jonathanxdr&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark#gh-light-dark-only
     "
-    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="
-      https://github-readme-stats.vercel.app/api?username=jonathanxdr&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
+      https://github-readme-stats.vercel.app/api?username=jonathanxdr&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=light#gh-light-mode-only
     "
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img
     src="https://github-readme-stats.vercel.app/api?username=jonathanxdr&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
@@ -492,15 +490,13 @@ Bash            5 mins          ▒░░░░░░░░░░░░░░░
 <picture>
   <source
     srcset="
-      https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanxdr&layout=compact&theme=dark
+      https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanxdr&layout=compact&theme=dark#gh-light-dark-only
     "
-    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="
-      https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanxdr&layout=compact
+      https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanxdr&layout=compact&theme=light#gh-light-mode-only
     "
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanxdr&layout=compact"
@@ -517,13 +513,13 @@ Bash            5 mins          ▒░░░░░░░░░░░░░░░
       src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"
     />
   </a>
-  <a href="https://twitter.com/J" target="_blank">
+  <a href="https://twitter.com/JonathanXD12_" target="_blank">
     <img
       alt="X (Twitter)"
       src="https://img.shields.io/badge/-X (Twitter)-000000.svg?&style=for-the-badge&logo=X&logoColor=white"
     />
   </a>
-  <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank">
+  <a href="https://www.linkedin.com/in/jonathan-russ-b7442a228" target="_blank">
     <img
       alt="LinkedIn"
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
