@@ -8,6 +8,8 @@
 
 Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Lehrjahr als Informatiker - Applikationsentwicklung. Ich wohne in Egg bei Einsiedeln im Kanton Schwyz. Das Programmieren fasziniert mich sehr und ich finde es spannend, was man damit alles erreichen kann. In meiner Freizeit spiele ich gerne Computer -und Konsolenspiele und treffe mich oft mit Freunden. Ausserdem höre ich häufig Musik und produziere sie auch manchmal selbst.
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 - 🔭 I’m currently working at Swisscom
 - 🌱 I’m currently learning Nuxt
 - 👯 I’m looking to collaborate with other developers & become a better person every day!
@@ -17,7 +19,7 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-<h3>My Tech Stack</h3>
+<h3>Things I work with</h3>
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
 <img alt="Rollup.js" src="https://img.shields.io/badge/-Rollup.js-EC4A3F?style=flat-square&logo=Rollup.js&logoColor=white" />
@@ -172,6 +174,12 @@ Bash            5 mins          ▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+#### 🏊‍♂️ Weekly Development Breakdown
+
+![light](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
+
+![dark](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
 
 <h3>GitHub stats</h3>
 
