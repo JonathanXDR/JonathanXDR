@@ -450,11 +450,11 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
 
 ### ⭐ Recent Stars
 
+- [Atrox/github-actions-badge](https://github.com/Atrox/github-actions-badge) - :shield: Shields.io Badge for your GitHub Actions
 - [avinal/Profile-Readme-WakaTime](https://github.com/avinal/Profile-Readme-WakaTime) - Generate coding activity graph tracked by WakaTime to embed in Readme(s) and webpages.
 - [dvjn/wakatime-charts](https://github.com/dvjn/wakatime-charts) - Generate beautiful SVG charts using your Wakatime stats.
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [acidanthera/AppleALC](https://github.com/acidanthera/AppleALC) - Native macOS HD audio for not officially supported codecs
 
 ### 💖 Recent followers
 
@@ -539,23 +539,15 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
 <p align="center">
   This <i>README</i> file is generated <b>every 3 hours</b>!<br />Last refresh:
   Monday, 5 February, 16:01 CET<br />
-  <a
-    href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
-  >
-    Create your own here!
-  </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg"
-  />
-  <img
-    alt="Stars"
-    src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"
-  />
-  <img
-    alt="Forks"
-    src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"
-  />
+  <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/JonathanXDR/JonathanXDR/wakatime.yml?style=for-the-badge&logo=GitHub&label=Wakatime%20Charts&link=https%3A%2F%2Fgithub.com%2FJonathanXDR%2FJonathanXDR%2Factions%2Fworkflows%2Fwakatime.yml">
+  <br />
+  <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/JonathanXDR/JonathanXDR/markdown-scribe.yml?style=for-the-badge&logo=GitHub&label=Markdown%20Scribe%20Generation&link=https%3A%2F%2Fgithub.com%2FJonathanXDR%2FJonathanXDR%2Factions%2Fworkflows%2Fmarkdown-scribe.yml">
+
+  
+
+
+
 </p>
