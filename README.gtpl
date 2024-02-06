@@ -534,9 +534,13 @@ Bash            5 mins          ▒░░░░░░░░░░░░░░░
 </p>
 
 <p align="center">
-  <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/JonathanXDR/JonathanXDR/wakatime.yml?style=for-the-badge&logo=GitHub&label=Wakatime%20Charts&link=https%3A%2F%2Fgithub.com%2FJonathanXDR%2FJonathanXDR%2Factions%2Fworkflows%2Fwakatime.yml">
+  <a href="https://github.com/JonathanXDR/JonathanXDR/actions/workflows/wakatime.yml" target="_blank">
+    <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/JonathanXDR/JonathanXDR/wakatime.yml?style=for-the-badge&logo=GitHub&label=Wakatime%20Charts">
+  </a>
   <br />
-  <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/JonathanXDR/JonathanXDR/markdown-scribe.yml?style=for-the-badge&logo=GitHub&label=Markdown%20Scribe%20Generation&link=https%3A%2F%2Fgithub.com%2FJonathanXDR%2FJonathanXDR%2Factions%2Fworkflows%2Fmarkdown-scribe.yml">
+  <a href="https://github.com/JonathanXDR/JonathanXDR/actions/workflows/markdown-scribe.yml" target="_blank">
+    <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/JonathanXDR/JonathanXDR/markdown-scribe.yml?style=for-the-badge&logo=GitHub&label=Markdown%20Scribe%20Generation">
+  </a>
 
   <!-- <img
     src="https://github.com/JonathanXDR/JonathanXDR/workflows/Wakatime%20Charts/badge.svg"
