@@ -283,7 +283,7 @@ tools = [
         "badgeColor": "#FCBFBD",
         "badgeName": "Arc",
         "logoName": "Arc",
-        "logoColor": "white",
+        "logoColor": "black",
         "category": "Utilities",
     },
     {
@@ -353,7 +353,7 @@ tools = [
         "badgeColor": "#14BF96",
         "badgeName": "Khan Academy",
         "logoName": "Khan Academy",
-        "logoColor": "black",
+        "logoColor": "white",
         "category": "Utilities",
     },
     {
@@ -367,7 +367,7 @@ tools = [
         "badgeColor": "#0F2B46",
         "badgeName": "DeepL",
         "logoName": "DeepL",
-        "logoColor": "black",
+        "logoColor": "white",
         "category": "Utilities",
     },
     {
@@ -583,7 +583,7 @@ tools = [
     {
         "badgeColor": "#007ACC",
         "badgeName": "VS Code",
-        "logoName": "VS Code",
+        "logoName": "Visual Studio Code",
         "logoColor": "white",
         "category": "DevOps",
     },
