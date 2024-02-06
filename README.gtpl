@@ -171,7 +171,7 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
   />
   <img
     alt="HTTPie"
-    src="https://img.shields.io/badge/-HTTPie-73DC8C?style=flat-square&logo=HTTPie&logoColor=white"
+    src="https://img.shields.io/badge/-HTTPie-73DC8C?style=flat-square&logo=HTTPie&logoColor=black"
   />
   <img
     alt="Unity"
@@ -208,10 +208,6 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
   <img
     alt="Raycast"
     src="https://img.shields.io/badge/-Raycast-FF6363?style=flat-square&logo=Raycast&logoColor=white"
-  />
-  <img
-    alt="OpenSSL"
-    src="https://img.shields.io/badge/-OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white"
   />
   <img
     alt="Aseprite"
@@ -259,7 +255,7 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
   />
   <img
     alt="Gumroad"
-    src="https://img.shields.io/badge/-Gumroad-FF90E8?style=flat-square&logo=Gumroad&logoColor=white"
+    src="https://img.shields.io/badge/-Gumroad-FF90E8?style=flat-square&logo=Gumroad&logoColor=black"
   />
   <img
     alt="Hostinger"
@@ -303,7 +299,7 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
   />
   <img
     alt="Swagger"
-    src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"
+    src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black"
   />
   <img
     alt="Tailwind CSS"

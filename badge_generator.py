@@ -255,7 +255,7 @@ tools = [
         "badgeColor": "#73DC8C",
         "badgeName": "HTTPie",
         "logoName": "HTTPie",
-        "logoColor": "white",
+        "logoColor": "black",
         "category": "Utilities",
     },
     {
@@ -318,13 +318,6 @@ tools = [
         "badgeColor": "#FF6363",
         "badgeName": "Raycast",
         "logoName": "Raycast",
-        "logoColor": "white",
-        "category": "Utilities",
-    },
-    {
-        "badgeColor": "#721412",
-        "badgeName": "OpenSSL",
-        "logoName": "OpenSSL",
         "logoColor": "white",
         "category": "Utilities",
     },
@@ -409,7 +402,7 @@ tools = [
         "badgeColor": "#FF90E8",
         "badgeName": "Gumroad",
         "logoName": "Gumroad",
-        "logoColor": "white",
+        "logoColor": "black",
         "category": "Utilities",
     },
     {
@@ -486,7 +479,7 @@ tools = [
         "badgeColor": "#85EA2D",
         "badgeName": "Swagger",
         "logoName": "Swagger",
-        "logoColor": "white",
+        "logoColor": "black",
         "category": "Utilities",
     },
     {
