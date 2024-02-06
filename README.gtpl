@@ -187,7 +187,7 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
   />
   <img
     alt="Arc"
-    src="https://img.shields.io/badge/-Arc-FCBFBD?style=flat-square&logo=Arc&logoColor=white"
+    src="https://img.shields.io/badge/-Arc-FCBFBD?style=flat-square&logo=Arc&logoColor=black"
   />
   <img
     alt="Discord"
@@ -227,7 +227,7 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
   />
   <img
     alt="Khan Academy"
-    src="https://img.shields.io/badge/-Khan Academy-14BF96?style=flat-square&logo=Khan Academy&logoColor=black"
+    src="https://img.shields.io/badge/-Khan Academy-14BF96?style=flat-square&logo=Khan Academy&logoColor=white"
   />
   <img
     alt="CodePen"
@@ -235,7 +235,7 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
   />
   <img
     alt="DeepL"
-    src="https://img.shields.io/badge/-DeepL-0F2B46?style=flat-square&logo=DeepL&logoColor=black"
+    src="https://img.shields.io/badge/-DeepL-0F2B46?style=flat-square&logo=DeepL&logoColor=white"
   />
   <img
     alt="Dependabot"
@@ -359,7 +359,7 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
   />
   <img
     alt="VS Code"
-    src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=VS Code&logoColor=white"
+    src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"
   />
   <img
     alt="NPM"
