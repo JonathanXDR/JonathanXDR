@@ -1,0 +1,25 @@
+name: Update Wakatime Stats
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  update_wakatime_stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update Wakatime Stats
+        uses: tw93/wakatime-charts@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          BRANCH_NAME: 'main'
+          COMMIT_MESSAGE: 'Update Wakatime stats'
+          GIT_USER_EMAIL: '${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com'
+          GIT_USER_NAME: '${{ github.actor }}'

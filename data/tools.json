@@ -1,0 +1,681 @@
+[
+  {
+    "badge_color": "#F7DF1E",
+    "badge_name": "JavaScript",
+    "logo_name": "JavaScript",
+    "logo_color": "black",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#EC4A3F",
+    "badge_name": "Rollup.js",
+    "logo_name": "Rollup.js",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#3776AB",
+    "badge_name": "Python",
+    "logo_name": "Python",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#339933",
+    "badge_name": "Node.js",
+    "logo_name": "Node.js",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#000000",
+    "badge_name": "Bun",
+    "logo_name": "Bun",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#646CFF",
+    "badge_name": "Vite",
+    "logo_name": "Vite",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#61DAFB",
+    "badge_name": "React",
+    "logo_name": "React",
+    "logo_color": "black",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#E34F26",
+    "badge_name": "HTML5",
+    "logo_name": "HTML5",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#E34F26",
+    "badge_name": "MySQL",
+    "logo_name": "MySQL",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#4169E1",
+    "badge_name": "PostgreSQL",
+    "logo_name": "PostgreSQL",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#3178C6",
+    "badge_name": "TypeScript",
+    "logo_name": "TypeScript",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#47A248",
+    "badge_name": "MongoDB",
+    "logo_name": "MongoDB",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#2D3748",
+    "badge_name": "Prisma",
+    "logo_name": "Prisma",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#1572B6",
+    "badge_name": "CSS3",
+    "logo_name": "CSS3",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#E95420",
+    "badge_name": "Ubuntu",
+    "logo_name": "Ubuntu",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#512BD4",
+    "badge_name": "C#",
+    "logo_name": "C#",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#4FC08D",
+    "badge_name": "Vue.js",
+    "logo_name": "Vue.js",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#4EAA25",
+    "badge_name": "Bash",
+    "logo_name": "GNU Bash",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#CC6699",
+    "badge_name": "Sass",
+    "logo_name": "Sass",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#232F3E",
+    "badge_name": "AWS",
+    "logo_name": "Amazon Web Services",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#4285F4",
+    "badge_name": "Google Cloud",
+    "logo_name": "Google Cloud",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#000000",
+    "badge_name": "Markdown",
+    "logo_name": "Markdown",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#1B1F24",
+    "badge_name": "MDX",
+    "logo_name": "MDX",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#F05138",
+    "badge_name": "Swift",
+    "logo_name": "Swift",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#7F52FF",
+    "badge_name": "Kotlin",
+    "logo_name": "Kotlin",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#003545",
+    "badge_name": "MariaDB",
+    "logo_name": "MariaDB",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#47848F",
+    "badge_name": "Electron",
+    "logo_name": "Electron",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#000000",
+    "badge_name": "Next.js",
+    "logo_name": "Next.js",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#3DDC84",
+    "badge_name": "Android Studio",
+    "logo_name": "Android Studio",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#4285F4",
+    "badge_name": "Jetpack Compose",
+    "logo_name": "Jetpack Compose",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#E0234E",
+    "badge_name": "Nest.js",
+    "logo_name": "NestJS",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#000000",
+    "badge_name": "iOS",
+    "logo_name": "iOS",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#000000",
+    "badge_name": "macOS",
+    "logo_name": "macOS",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#000000",
+    "badge_name": "JetBrains",
+    "logo_name": "JetBrains",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#000000",
+    "badge_name": "Fig",
+    "logo_name": "Fig",
+    "logo_color": "white",
+    "category": "Application and Data"
+  },
+  {
+    "badge_color": "#FF6C37",
+    "badge_name": "Postman",
+    "logo_name": "Postman",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#73DC8C",
+    "badge_name": "HTTPie",
+    "logo_name": "HTTPie",
+    "logo_color": "black",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#000000",
+    "badge_name": "Unity",
+    "logo_name": "Unity",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#000000",
+    "badge_name": "Vercel",
+    "logo_name": "Vercel",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#F58025",
+    "badge_name": "Stack Overflow",
+    "logo_name": "Stack Overflow",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#FCBFBD",
+    "badge_name": "Arc",
+    "logo_name": "Arc",
+    "logo_color": "black",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#5865F2",
+    "badge_name": "Discord",
+    "logo_name": "Discord",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#412991",
+    "badge_name": "OpenAI",
+    "logo_name": "OpenAI",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#000000",
+    "badge_name": "Notion",
+    "logo_name": "Notion",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#4687FF",
+    "badge_name": "NordVPN",
+    "logo_name": "NordVPN",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#FF6363",
+    "badge_name": "Raycast",
+    "logo_name": "Raycast",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#7D929E",
+    "badge_name": "Aseprite",
+    "logo_name": "Aseprite",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#E87D0D",
+    "badge_name": "Blender",
+    "logo_name": "Blender",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#1F4056",
+    "badge_name": "Codecademy",
+    "logo_name": "Codecademy",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#14BF96",
+    "badge_name": "Khan Academy",
+    "logo_name": "Khan Academy",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#000000",
+    "badge_name": "CodePen",
+    "logo_name": "CodePen",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#0F2B46",
+    "badge_name": "DeepL",
+    "logo_name": "DeepL",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#025E8C",
+    "badge_name": "Dependabot",
+    "logo_name": "Dependabot",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#F08705",
+    "badge_name": "diagrams.net",
+    "logo_name": "diagrams.net",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#EB844E",
+    "badge_name": "Fireship",
+    "logo_name": "Fireship",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#000000",
+    "badge_name": "GitHub Copilot",
+    "logo_name": "GitHub Copilot",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#FF6666",
+    "badge_name": "Giphy",
+    "logo_name": "Giphy",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#FF90E8",
+    "badge_name": "Gumroad",
+    "logo_name": "Gumroad",
+    "logo_color": "black",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#673DE6",
+    "badge_name": "Hostinger",
+    "logo_name": "Hostinger",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#1BB76E",
+    "badge_name": "Imgur",
+    "logo_name": "Imgur",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#E4405F",
+    "badge_name": "Instagram",
+    "logo_name": "Instagram",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#000000",
+    "badge_name": "Medium",
+    "logo_name": "Medium",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#0A66C2",
+    "badge_name": "LinkedIn",
+    "logo_name": "LinkedIn",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#FF4500",
+    "badge_name": "Reddit",
+    "logo_name": "Reddit",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#000000",
+    "badge_name": "X (Twitter)",
+    "logo_name": "X",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#00B8FC",
+    "badge_name": "Logitech",
+    "logo_name": "Logitech",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#4945FF",
+    "badge_name": "Strapi",
+    "logo_name": "Strapi",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#3FCF8E",
+    "badge_name": "Supabase",
+    "logo_name": "Supabase",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#85EA2D",
+    "badge_name": "Swagger",
+    "logo_name": "Swagger",
+    "logo_color": "black",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#06B6D4",
+    "badge_name": "Tailwind CSS",
+    "logo_name": "Tailwind CSS",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#666666",
+    "badge_name": "Internet Archive",
+    "logo_name": "Internet Archive",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#3693F3",
+    "badge_name": "iCloud",
+    "logo_name": "iCloud",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#5E5E5E",
+    "badge_name": "Microsoft",
+    "logo_name": "Microsoft",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#3C8527",
+    "badge_name": "Minecraft",
+    "logo_name": "Minecraft",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#EF323D",
+    "badge_name": "Mojang",
+    "logo_name": "Mojang Studios",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#40BE46",
+    "badge_name": "JFrog",
+    "logo_name": "JFrog",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#000000",
+    "badge_name": "JWT",
+    "logo_name": "JSON Web Tokens",
+    "logo_color": "white",
+    "category": "Utilities"
+  },
+  {
+    "badge_color": "#179287",
+    "badge_name": "GitKraken",
+    "logo_name": "GitKraken",
+    "logo_color": "white",
+    "category": "DevOps"
+  },
+  {
+    "badge_color": "#181717",
+    "badge_name": "GitHub",
+    "logo_name": "GitHub",
+    "logo_color": "white",
+    "category": "DevOps"
+  },
+  {
+    "badge_color": "#FC6D26",
+    "badge_name": "GitLab",
+    "logo_name": "GitLab",
+    "logo_color": "white",
+    "category": "DevOps"
+  },
+  {
+    "badge_color": "#F05032",
+    "badge_name": "Git",
+    "logo_name": "Git",
+    "logo_color": "white",
+    "category": "DevOps"
+  },
+  {
+    "badge_color": "#2496ED",
+    "badge_name": "Docker",
+    "logo_name": "Docker",
+    "logo_color": "white",
+    "category": "DevOps"
+  },
+  {
+    "badge_color": "#007ACC",
+    "badge_name": "VS Code",
+    "logo_name": "Visual Studio Code",
+    "logo_color": "white",
+    "category": "DevOps"
+  },
+  {
+    "badge_color": "#CB3837",
+    "badge_name": "NPM",
+    "logo_name": "npm",
+    "logo_color": "white",
+    "category": "DevOps"
+  },
+  {
+    "badge_color": "#326CE5",
+    "badge_name": "Kubernetes",
+    "logo_name": "Kubernetes",
+    "logo_color": "white",
+    "category": "DevOps"
+  },
+  {
+    "badge_color": "#8DD6F9",
+    "badge_name": "Webpack",
+    "logo_name": "Webpack",
+    "logo_color": "black",
+    "category": "DevOps"
+  },
+  {
+    "badge_color": "#000000",
+    "badge_name": "IntelliJ IDEA",
+    "logo_name": "IntelliJ IDEA",
+    "logo_color": "white",
+    "category": "DevOps"
+  },
+  {
+    "badge_color": "#2088FF",
+    "badge_name": "GitHub Actions",
+    "logo_name": "GitHub Actions",
+    "logo_color": "white",
+    "category": "DevOps"
+  },
+  {
+    "badge_color": "#4B32C3",
+    "badge_name": "ESLint",
+    "logo_name": "ESLint",
+    "logo_color": "white",
+    "category": "DevOps"
+  },
+  {
+    "badge_color": "#02303A",
+    "badge_name": "Gradle",
+    "logo_name": "Gradle",
+    "logo_color": "white",
+    "category": "DevOps"
+  },
+  {
+    "badge_color": "#EE0000",
+    "badge_name": "Ansible",
+    "logo_name": "Ansible",
+    "logo_color": "white",
+    "category": "DevOps"
+  },
+  {
+    "badge_color": "#147EFB",
+    "badge_name": "Xcode",
+    "logo_name": "Xcode",
+    "logo_color": "white",
+    "category": "DevOps"
+  },
+  {
+    "badge_color": "#C21325",
+    "badge_name": "Jest",
+    "logo_name": "Jest",
+    "logo_color": "white",
+    "category": "DevOps"
+  },
+  {
+    "badge_color": "#F7B93E",
+    "badge_name": "Prettier",
+    "logo_name": "Prettier",
+    "logo_color": "black",
+    "category": "DevOps"
+  },
+  {
+    "badge_color": "#FBB040",
+    "badge_name": "Homebrew",
+    "logo_name": "Homebrew",
+    "logo_color": "black",
+    "category": "DevOps"
+  },
+  {
+    "badge_color": "#4A154B",
+    "badge_name": "Slack",
+    "logo_name": "Slack",
+    "logo_color": "white",
+    "category": "Business Tools"
+  },
+  {
+    "badge_color": "#F24E1E",
+    "badge_name": "Figma",
+    "logo_name": "Figma",
+    "logo_color": "white",
+    "category": "Business Tools"
+  }
+]

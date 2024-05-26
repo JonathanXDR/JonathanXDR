@@ -1,0 +1,45 @@
+name: Generate README
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  generate_readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          check-latest: true
+
+      - name: Sort tools by HSL
+        run: python ./scripts/sort_tools.py
+
+      - name: Generate badge URLs
+        run: python ./scripts/generate_badge_urls.py
+
+      - name: Update README template
+        run: python ./scripts/update_readme_template.py
+
+      - name: Generate README
+        uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        with:
+          template: './templates/readme_template.gtpl'
+          writeTo: 'README.md'
+
+      - name: Commit README
+        uses: stefanzweifel/git-auto-commit-action@v5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        with:
+          commit_message: 'Update README.md'
