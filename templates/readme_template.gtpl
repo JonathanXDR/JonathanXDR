@@ -1,11 +1,16 @@
-<h2 align="center">{{ .title }}</h2>
+<h2 align="center">👋🏻 Hey ;) I'm Jonathan</h2>
 
 <p align="center">
-  {{ range .social_links }}
-  <a href="{{ .url }}">{{ .name }}</a> •
+  <a href="https://www.linkedin.com/in/jonathan-russ-swisscom">LinkedIn</a> •
+  <a href="https://twitter.com/JonathanXD12_">X (Twitter)</a> •
+  <a href="https://www.threads.net/@jonathan_russ_">Threads</a> •
+  <a href="https://www.reddit.com/user/JonathanXD12">Reddit</a> •
+  <a href="https://www.instagram.com/jonathan_russ_">Instagram</a> •
+  <a href="https://www.tiktok.com/@jonathan_russ_">TikTok</a> •
+  <a href="https://www.twitch.tv/jonathanxd12_">Twitch</a>
 </p>
 
-<p>{{ .description }}</p>
+Hallo mein Name ist Jonathan und ich bin {{ age }} Jahre alt. Aktuell bin ich im {{ apprenticeship_year }} Lehrjahr als Informatiker - Applikationsentwicklung. Ich wohne in Egg bei Einsiedeln im Kanton Schwyz. Das Programmieren fasziniert mich sehr und ich finde es spannend, was man damit alles erreichen kann. In meiner Freizeit spiele ich gerne Computer -und Konsolenspiele und treffe mich oft mit Freunden. Ausserdem höre ich häufig Musik und produziere sie auch manchmal selbst.
 
 <img
   align="right"
@@ -13,11 +18,14 @@
   width="200"
 />
 
-<ul>
-  {{ range .general_info }}
-  <li>{{ . }}</li>
-  {{ end }}
-</ul>
+- 🔭 I’m currently working at Swisscom
+- 🌱 I’m currently learning Nuxt
+- 👯 I’m looking to collaborate with other developers & become a better person every day!
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about programming, music, movies, star wars
+- 📫 How to reach me: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ...
 
 <h3>Things I work with</h3>
 <p>
@@ -25,7 +33,7 @@
 </p>
 
 <details>
-  <summary><h3>{{ index .stats_info 0 }}</h3></summary>
+  <summary><h3>👷 Check out what I'm currently working on</h3></summary>
   <ul>
     {{ range recentContributions 5 }}
     <li>
@@ -36,7 +44,7 @@
 </details>
 
 <details>
-  <summary><h3>{{ index .stats_info 1 }}</h3></summary>
+  <summary><h3>🌱 My latest projects</h3></summary>
   <ul>
     {{ range recentRepos 5 }}
     <li><a href="{{ .URL }}">{{ .Name }}</a> - {{ .Description }}</li>
@@ -45,7 +53,7 @@
 </details>
 
 <details>
-  <summary><h3>{{ index .stats_info 2 }}</h3></summary>
+  <summary><h3>🔨 My recent Pull Requests</h3></summary>
   <ul>
     {{ range recentPullRequests 5 }}
     <li>
@@ -57,7 +65,7 @@
 </details>
 
 <details>
-  <summary><h3>{{ index .stats_info 3 }}</h3></summary>
+  <summary><h3>🔭 Latest releases I've contributed to</h3></summary>
   <ul>
     {{ range recentReleases 5 }}
     <li>
@@ -69,7 +77,7 @@
 </details>
 
 <details>
-  <summary><h3>{{ index .stats_info 4 }}</h3></summary>
+  <summary><h3>⭐ Recent Stars</h3></summary>
   <ul>
     {{ range recentStars 5 }}
     <li>
@@ -80,7 +88,7 @@
 </details>
 
 <details>
-  <summary><h3>{{ index .stats_info 5 }}</h3></summary>
+  <summary><h3>💖 Recent followers</h3></summary>
   <ul>
     {{ range followers 5 }}
     <li><a href="{{ .URL }}">**@{{ .Login }}**</a></li>
@@ -144,6 +152,6 @@ Bash            5 mins          ▒░░░░░░░░░░░░░░░
 ---
 
 <p align="center">
-  This <i>README</i> file is generated <h3>every 3 hours</h3>!<br />Last refresh:
+  This <i>README</i> file is generated <b>every 3 hours</b>!<br />Last refresh:
   Monday, 5 February, 16:01 CET<br />
 </p>
