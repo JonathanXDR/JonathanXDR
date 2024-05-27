@@ -417,9 +417,9 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
 
 ### 👷 Check out what I'm currently working on
 
-- [Emilijan08/Online-Shop-Frontend](https://github.com/Emilijan08/Online-Shop-Frontend) - 
+- [Emilijan08/Online-Shop-Frontend](https://github.com/Emilijan08/Online-Shop-Frontend) -
 - [JonathanXDR/Atom-Blog](https://github.com/JonathanXDR/Atom-Blog) - 📖 Blog for Atom, the hackable text editor.
-- [Emilijan08/Online-Shop-Backend](https://github.com/Emilijan08/Online-Shop-Backend) - 
+- [Emilijan08/Online-Shop-Backend](https://github.com/Emilijan08/Online-Shop-Backend) -
 - [JonathanXDR/Atom](https://github.com/JonathanXDR/Atom) - A recreation of the Atom.io website using Next.js, preserving its design and content as it was on December 15, 2022, the official sunset date of the Atom project.
 - [JonathanXDR/Dotfiles](https://github.com/JonathanXDR/Dotfiles) - My dotfiles
 
@@ -427,7 +427,7 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
 
 - [JonathanXDR/Atom-Blog](https://github.com/JonathanXDR/Atom-Blog) - 📖 Blog for Atom, the hackable text editor.
 - [JonathanXDR/M323](https://github.com/JonathanXDR/M323) - Funktional programmieren
-- [JonathanXDR/ICT-Regional-Championships-2024-Prep-Tasks-Trade-17](https://github.com/JonathanXDR/ICT-Regional-Championships-2024-Prep-Tasks-Trade-17) - 
+- [JonathanXDR/ICT-Regional-Championships-2024-Prep-Tasks-Trade-17](https://github.com/JonathanXDR/ICT-Regional-Championships-2024-Prep-Tasks-Trade-17) -
 - [JonathanXDR/M183](https://github.com/JonathanXDR/M183) - Applikationssicherheit implementieren
 - [JonathanXDR/UEK-335](https://github.com/JonathanXDR/UEK-335) - Mobile-Applikation realisieren
 
@@ -449,7 +449,7 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
 - [pwndoc/pwndoc](https://github.com/pwndoc/pwndoc) - Pentest Report Generator
 - [standard/eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
 - [omondi8399/Github-Clone](https://github.com/omondi8399/Github-Clone) - This is a comprehensive Next.js GitHub Homepage template that incorporates powerful and popular web development libraries and practices. Developed using Next.js, Tailwind CSS, Framer Motion, and React String,
-- [mukulrajpoot262610/gist-clone](https://github.com/mukulrajpoot262610/gist-clone) - 
+- [mukulrajpoot262610/gist-clone](https://github.com/mukulrajpoot262610/gist-clone) -
 - [Fredkiss3/gh-next](https://github.com/Fredkiss3/gh-next) - A minimal Github clone built on nextjs app router.
 
 ### 💖 Recent followers
@@ -462,17 +462,10 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
 
 <h3>This week i spent my time on:</h3>
 
-
-
-
-
-
-
 ![light](https://raw.githubusercontent.com/JonathanXDR/JonathanXDR/main/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
 ![dark](https://raw.githubusercontent.com/JonathanXDR/JonathanXDR/main/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
 
 <h3>GitHub stats</h3>
-
 
 <picture>
   <source
@@ -505,8 +498,6 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanxdr&layout=compact"
   />
 </picture>
-
-
 
 <h3>Where to find me</h3>
 <p>
@@ -545,9 +536,5 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
   <a href="https://github.com/JonathanXDR/JonathanXDR/actions/workflows/markdown-scribe.yml" target="_blank">
     <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/JonathanXDR/JonathanXDR/markdown-scribe.yml?style=for-the-badge&logo=GitHub&label=Markdown%20Scribe%20Generation">
   </a>
-
-  
-
-
 
 </p>
