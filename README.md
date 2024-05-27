@@ -131,131 +131,37 @@ Hallo mein Name ist Jonathan und ich bin 18 Jahre alt. Aktuell bin ich im 3. Leh
 </details>
 <details>
   <summary><h3>👷 Check out what I'm currently working on</h3></summary>
-  <ul>
-    
-    <li>
-      <a href="https://github.com/Emilijan08/Online-Shop-Frontend">Emilijan08/Online-Shop-Frontend</a> - 
-    </li>
-    
-    <li>
-      <a href="https://github.com/Emilijan08/Online-Shop-Backend">Emilijan08/Online-Shop-Backend</a> - 
-    </li>
-    
-    <li>
-      <a href="https://github.com/JonathanXDR/Atom-Blog">JonathanXDR/Atom-Blog</a> - 📖 Blog for Atom, the hackable text editor.
-    </li>
-    
-    <li>
-      <a href="https://github.com/JonathanXDR/Atom">JonathanXDR/Atom</a> - A recreation of the Atom.io website using Next.js, preserving its design and content as it was on December 15, 2022, the official sunset date of the Atom project.
-    </li>
-    
-    <li>
-      <a href="https://github.com/JonathanXDR/Dotfiles">JonathanXDR/Dotfiles</a> - My dotfiles
-    </li>
-    
+  <ul><li>
+      <a href="https://github.com/Emilijan08/Online-Shop-Frontend">Emilijan08/Online-Shop-Frontend</a> - </li><li>
+      <a href="https://github.com/Emilijan08/Online-Shop-Backend">Emilijan08/Online-Shop-Backend</a> - </li><li>
+      <a href="https://github.com/JonathanXDR/Atom-Blog">JonathanXDR/Atom-Blog</a> - 📖 Blog for Atom, the hackable text editor.</li><li>
+      <a href="https://github.com/JonathanXDR/Atom">JonathanXDR/Atom</a> - A recreation of the Atom.io website using Next.js, preserving its design and content as it was on December 15, 2022, the official sunset date of the Atom project.</li><li>
+      <a href="https://github.com/JonathanXDR/Dotfiles">JonathanXDR/Dotfiles</a> - My dotfiles</li>
   </ul>
 </details>
 <details>
   <summary><h3>🌱 My latest projects</h3></summary>
-  <ul>
-    
-    <li><a href="https://github.com/JonathanXDR/Atom-Blog">JonathanXDR/Atom-Blog</a> - 📖 Blog for Atom, the hackable text editor.</li>
-    
-    <li><a href="https://github.com/JonathanXDR/M323">JonathanXDR/M323</a> - Funktional programmieren</li>
-    
-    <li><a href="https://github.com/JonathanXDR/ICT-Regional-Championships-2024-Prep-Tasks-Trade-17">JonathanXDR/ICT-Regional-Championships-2024-Prep-Tasks-Trade-17</a> - </li>
-    
-    <li><a href="https://github.com/JonathanXDR/M183">JonathanXDR/M183</a> - Applikationssicherheit implementieren</li>
-    
-    <li><a href="https://github.com/JonathanXDR/UEK-335">JonathanXDR/UEK-335</a> - Mobile-Applikation realisieren</li>
-    
+  <ul><li><a href="https://github.com/JonathanXDR/Atom-Blog">JonathanXDR/Atom-Blog</a> - 📖 Blog for Atom, the hackable text editor.</li><li><a href="https://github.com/JonathanXDR/M323">JonathanXDR/M323</a> - Funktional programmieren</li><li><a href="https://github.com/JonathanXDR/ICT-Regional-Championships-2024-Prep-Tasks-Trade-17">JonathanXDR/ICT-Regional-Championships-2024-Prep-Tasks-Trade-17</a> - </li><li><a href="https://github.com/JonathanXDR/M183">JonathanXDR/M183</a> - Applikationssicherheit implementieren</li><li><a href="https://github.com/JonathanXDR/UEK-335">JonathanXDR/UEK-335</a> - Mobile-Applikation realisieren</li>
   </ul>
 </details>
 <details>
   <summary><h3>🔨 My recent Pull Requests</h3></summary>
-  <ul>
-    
-    <li>
-      <a href="https://github.com/JonathanXDR/Memory/pull/8">[Snyk] Upgrade vue from 3.4.25 to 3.4.26</a> on
-      <a href="https://github.com/JonathanXDR/Memory">JonathanXDR/Memory</a>
-    </li>
-    
-    <li>
-      <a href="https://github.com/JonathanXDR/Atom/pull/25">[Snyk] Fix for 6 vulnerabilities</a> on
-      <a href="https://github.com/JonathanXDR/Atom">JonathanXDR/Atom</a>
-    </li>
-    
-    <li>
-      <a href="https://github.com/JonathanXDR/Note-Library-Backend/pull/14">[Snyk] Upgrade @prisma/client from 5.12.1 to 5.13.0</a> on
-      <a href="https://github.com/JonathanXDR/Note-Library-Backend">JonathanXDR/Note-Library-Backend</a>
-    </li>
-    
-    <li>
-      <a href="https://github.com/JonathanXDR/Atom/pull/24">[Snyk] Security upgrade next from 14.1.0 to 14.1.1</a> on
-      <a href="https://github.com/JonathanXDR/Atom">JonathanXDR/Atom</a>
-    </li>
-    
-    <li>
-      <a href="https://github.com/JonathanXDR/Note-Library-Backend/pull/13">[Snyk] Upgrade: @nestjs/common, @nestjs/core, @nestjs/platform-express</a> on
-      <a href="https://github.com/JonathanXDR/Note-Library-Backend">JonathanXDR/Note-Library-Backend</a>
-    </li>
-    
+  <ul><li><a href="https://github.com/JonathanXDR/Memory/pull/8">[Snyk] Upgrade vue from 3.4.25 to 3.4.26</a> on<a href="https://github.com/JonathanXDR/Memory">JonathanXDR/Memory</a></li><li><a href="https://github.com/JonathanXDR/Atom/pull/25">[Snyk] Fix for 6 vulnerabilities</a> on<a href="https://github.com/JonathanXDR/Atom">JonathanXDR/Atom</a></li><li><a href="https://github.com/JonathanXDR/Note-Library-Backend/pull/14">[Snyk] Upgrade @prisma/client from 5.12.1 to 5.13.0</a> on<a href="https://github.com/JonathanXDR/Note-Library-Backend">JonathanXDR/Note-Library-Backend</a></li><li><a href="https://github.com/JonathanXDR/Atom/pull/24">[Snyk] Security upgrade next from 14.1.0 to 14.1.1</a> on<a href="https://github.com/JonathanXDR/Atom">JonathanXDR/Atom</a></li><li><a href="https://github.com/JonathanXDR/Note-Library-Backend/pull/13">[Snyk] Upgrade: @nestjs/common, @nestjs/core, @nestjs/platform-express</a> on<a href="https://github.com/JonathanXDR/Note-Library-Backend">JonathanXDR/Note-Library-Backend</a></li>
   </ul>
 </details>
 <details>
   <summary><h3>🔭 Latest releases I've contributed to</h3></summary>
-  <ul>
-    
-    <li>
-      <a href="https://github.com/JonathanXDR/Application-Website-Frontend">JonathanXDR/Application-Website-Frontend</a> [`v2.2.6`](https://github.com/JonathanXDR/Application-Website-Frontend/releases/tag/v2.2.6) - My Personal Website
-    </li>
-    
-    <li>
-      <a href="https://github.com/Homebrew/homebrew-cask">Homebrew/homebrew-cask</a> [`v0.60.1`](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-    </li>
-    
+  <ul><li><a href="https://github.com/JonathanXDR/Application-Website-Frontend">JonathanXDR/Application-Website-Frontend</a> [`v2.2.6`](https://github.com/JonathanXDR/Application-Website-Frontend/releases/tag/v2.2.6) - My Personal Website</li><li><a href="https://github.com/Homebrew/homebrew-cask">Homebrew/homebrew-cask</a> [`v0.60.1`](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries</li>
   </ul>
 </details>
 <details>
   <summary><h3>⭐ Recent Stars</h3></summary>
-  <ul>
-    
-    <li>
-      <a href="https://github.com/pwndoc/pwndoc">pwndoc/pwndoc</a> - Pentest Report Generator
-    </li>
-    
-    <li>
-      <a href="https://github.com/standard/eslint-config-standard">standard/eslint-config-standard</a> - ESLint Config for JavaScript Standard Style
-    </li>
-    
-    <li>
-      <a href="https://github.com/omondi8399/Github-Clone">omondi8399/Github-Clone</a> - This is a comprehensive Next.js GitHub Homepage template that incorporates powerful and popular web development libraries and practices. Developed using Next.js, Tailwind CSS, Framer Motion, and React String,
-    </li>
-    
-    <li>
-      <a href="https://github.com/mukulrajpoot262610/gist-clone">mukulrajpoot262610/gist-clone</a> - 
-    </li>
-    
-    <li>
-      <a href="https://github.com/Fredkiss3/gh-next">Fredkiss3/gh-next</a> - A minimal Github clone built on nextjs app router.
-    </li>
-    
+  <ul><li><a href="https://github.com/pwndoc/pwndoc">pwndoc/pwndoc</a> - Pentest Report Generator</li><li><a href="https://github.com/standard/eslint-config-standard">standard/eslint-config-standard</a> - ESLint Config for JavaScript Standard Style</li><li><a href="https://github.com/omondi8399/Github-Clone">omondi8399/Github-Clone</a> - This is a comprehensive Next.js GitHub Homepage template that incorporates powerful and popular web development libraries and practices. Developed using Next.js, Tailwind CSS, Framer Motion, and React String,</li><li><a href="https://github.com/mukulrajpoot262610/gist-clone">mukulrajpoot262610/gist-clone</a> - </li><li><a href="https://github.com/Fredkiss3/gh-next">Fredkiss3/gh-next</a> - A minimal Github clone built on nextjs app router.</li>
   </ul>
 </details>
 <details>
   <summary><h3>💖 Recent followers</h3></summary>
-  <ul>
-    
-    <li><a href="https://github.com/Emilijan08">**@Emilijan08**</a></li>
-    
-    <li><a href="https://github.com/Juzuvli">**@Juzuvli**</a></li>
-    
-    <li><a href="https://github.com/george0st">**@george0st**</a></li>
-    
-    <li><a href="https://github.com/simylein">**@simylein**</a></li>
-    
-    <li><a href="https://github.com/Maxi03milian">**@Maxi03milian**</a></li>
-    
+  <ul><li><a href="https://github.com/Emilijan08">**@Emilijan08**</a></li><li><a href="https://github.com/Juzuvli">**@Juzuvli**</a></li><li><a href="https://github.com/george0st">**@george0st**</a></li><li><a href="https://github.com/simylein">**@simylein**</a></li><li><a href="https://github.com/Maxi03milian">**@Maxi03milian**</a></li>
   </ul>
 </details>
 
