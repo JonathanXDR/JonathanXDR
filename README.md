@@ -417,48 +417,48 @@ Hallo mein Name ist Jonathan und ich bin 17 Jahre alt. Aktuell bin ich im 3. Leh
 
 ### 👷 Check out what I'm currently working on
 
-- [JonathanXDR/M450](https://github.com/JonathanXDR/M450) - 
-- [JonathanXDR/Application-Website-Frontend](https://github.com/JonathanXDR/Application-Website-Frontend) - My Personal Website
-- [JonathanXDR/Atom](https://github.com/JonathanXDR/Atom) - 
+- [Emilijan08/Online-Shop-Frontend](https://github.com/Emilijan08/Online-Shop-Frontend) - 
+- [JonathanXDR/Atom-Blog](https://github.com/JonathanXDR/Atom-Blog) - 📖 Blog for Atom, the hackable text editor.
+- [Emilijan08/Online-Shop-Backend](https://github.com/Emilijan08/Online-Shop-Backend) - 
+- [JonathanXDR/Atom](https://github.com/JonathanXDR/Atom) - A recreation of the Atom.io website using Next.js, preserving its design and content as it was on December 15, 2022, the official sunset date of the Atom project.
 - [JonathanXDR/Dotfiles](https://github.com/JonathanXDR/Dotfiles) - My dotfiles
-- [JonathanXDR/UEK-295](https://github.com/JonathanXDR/UEK-295) - 
 
 ### 🌱 My latest projects
 
-- [JonathanXDR/M450](https://github.com/JonathanXDR/M450) - 
-- [JonathanXDR/Airflare](https://github.com/JonathanXDR/Airflare) - A Node.js library to discover and stream media to Apple AirPlay devices using multicast-dns.
-- [JonathanXDR/UEK-223](https://github.com/JonathanXDR/UEK-223) - 
-- [JonathanXDR/UEK-223-Extended-Hello-World](https://github.com/JonathanXDR/UEK-223-Extended-Hello-World) - 
-- [JonathanXDR/Dotfiles](https://github.com/JonathanXDR/Dotfiles) - My dotfiles
+- [JonathanXDR/Atom-Blog](https://github.com/JonathanXDR/Atom-Blog) - 📖 Blog for Atom, the hackable text editor.
+- [JonathanXDR/M323](https://github.com/JonathanXDR/M323) - Funktional programmieren
+- [JonathanXDR/ICT-Regional-Championships-2024-Prep-Tasks-Trade-17](https://github.com/JonathanXDR/ICT-Regional-Championships-2024-Prep-Tasks-Trade-17) - 
+- [JonathanXDR/M183](https://github.com/JonathanXDR/M183) - Applikationssicherheit implementieren
+- [JonathanXDR/UEK-335](https://github.com/JonathanXDR/UEK-335) - Mobile-Applikation realisieren
 
 ### 🔨 My recent Pull Requests
 
-- [Develop](https://github.com/JonathanXDR/M450/pull/7) on [JonathanXDR/M450](https://github.com/JonathanXDR/M450)
-- [CI/CD Pipeline](https://github.com/JonathanXDR/M450/pull/5) on [JonathanXDR/M450](https://github.com/JonathanXDR/M450)
-- [[Snyk] Upgrade vue from 3.4.5 to 3.4.6](https://github.com/JonathanXDR/Application-Website-Frontend/pull/25) on [JonathanXDR/Application-Website-Frontend](https://github.com/JonathanXDR/Application-Website-Frontend)
-- [[Snyk] Security upgrade eslint-config-next from 14.0.3 to 14.1.0](https://github.com/JonathanXDR/Atom/pull/16) on [JonathanXDR/Atom](https://github.com/JonathanXDR/Atom)
-- [[Snyk] Security upgrade axios from 1.6.2 to 1.6.4](https://github.com/JonathanXDR/Game-Library-Frontend/pull/34) on [JonathanXDR/Game-Library-Frontend](https://github.com/JonathanXDR/Game-Library-Frontend)
+- [[Snyk] Upgrade vue from 3.4.25 to 3.4.26](https://github.com/JonathanXDR/Memory/pull/8) on [JonathanXDR/Memory](https://github.com/JonathanXDR/Memory)
+- [[Snyk] Fix for 6 vulnerabilities](https://github.com/JonathanXDR/Atom/pull/25) on [JonathanXDR/Atom](https://github.com/JonathanXDR/Atom)
+- [[Snyk] Upgrade @prisma/client from 5.12.1 to 5.13.0](https://github.com/JonathanXDR/Note-Library-Backend/pull/14) on [JonathanXDR/Note-Library-Backend](https://github.com/JonathanXDR/Note-Library-Backend)
+- [[Snyk] Security upgrade next from 14.1.0 to 14.1.1](https://github.com/JonathanXDR/Atom/pull/24) on [JonathanXDR/Atom](https://github.com/JonathanXDR/Atom)
+- [[Snyk] Upgrade: @nestjs/common, @nestjs/core, @nestjs/platform-express](https://github.com/JonathanXDR/Note-Library-Backend/pull/13) on [JonathanXDR/Note-Library-Backend](https://github.com/JonathanXDR/Note-Library-Backend)
 
 ### 🔭 Latest releases I've contributed to
 
-- [JonathanXDR/Application-Website-Frontend](https://github.com/JonathanXDR/Application-Website-Frontend) [`v2.2.3`](https://github.com/JonathanXDR/Application-Website-Frontend/releases/tag/v2.2.3) - My Personal Website
+- [JonathanXDR/Application-Website-Frontend](https://github.com/JonathanXDR/Application-Website-Frontend) [`v2.2.6`](https://github.com/JonathanXDR/Application-Website-Frontend/releases/tag/v2.2.6) - My Personal Website
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) [`v0.60.1`](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 
 ### ⭐ Recent Stars
 
-- [Atrox/github-actions-badge](https://github.com/Atrox/github-actions-badge) - :shield: Shields.io Badge for your GitHub Actions
-- [avinal/Profile-Readme-WakaTime](https://github.com/avinal/Profile-Readme-WakaTime) - Generate coding activity graph tracked by WakaTime to embed in Readme(s) and webpages.
-- [dvjn/wakatime-charts](https://github.com/dvjn/wakatime-charts) - Generate beautiful SVG charts using your Wakatime stats.
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [pwndoc/pwndoc](https://github.com/pwndoc/pwndoc) - Pentest Report Generator
+- [standard/eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
+- [omondi8399/Github-Clone](https://github.com/omondi8399/Github-Clone) - This is a comprehensive Next.js GitHub Homepage template that incorporates powerful and popular web development libraries and practices. Developed using Next.js, Tailwind CSS, Framer Motion, and React String,
+- [mukulrajpoot262610/gist-clone](https://github.com/mukulrajpoot262610/gist-clone) - 
+- [Fredkiss3/gh-next](https://github.com/Fredkiss3/gh-next) - A minimal Github clone built on nextjs app router.
 
 ### 💖 Recent followers
 
+- [**@Emilijan08**](https://github.com/Emilijan08)
+- [**@Juzuvli**](https://github.com/Juzuvli)
 - [**@george0st**](https://github.com/george0st)
 - [**@simylein**](https://github.com/simylein)
 - [**@Maxi03milian**](https://github.com/Maxi03milian)
-- [**@peter-kimanzi**](https://github.com/peter-kimanzi)
-- [**@romanindermuehle**](https://github.com/romanindermuehle)
 
 <h3>This week i spent my time on:</h3>
 
