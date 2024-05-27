@@ -131,60 +131,33 @@ Hallo mein Name ist Jonathan und ich bin 18 Jahre alt. Aktuell bin ich im 3. Leh
 </details>
 <details>
   <summary><h3>👷 Check out what I'm currently working on</h3></summary>
-  <ul>
-    {{ range recentContributions 5 }}
-    <li>
-      <a href="{{ .Repo.URL }}">{{ .Repo.Name }}</a> - {{ .Repo.Description }}
-    </li>
-    {{ end }}
+  <ul>{{ range recentContributions 5 }}<li>
+      <a href="{{ .Repo.URL }}">{{ .Repo.Name }}</a> - {{ .Repo.Description }}</li>{{ end }}
   </ul>
 </details>
 <details>
   <summary><h3>🌱 My latest projects</h3></summary>
-  <ul>
-    {{ range recentRepos 5 }}
-    <li><a href="{{ .URL }}">{{ .Name }}</a> - {{ .Description }}</li>
-    {{ end }}
+  <ul>{{ range recentRepos 5 }}<li><a href="{{ .URL }}">{{ .Name }}</a> - {{ .Description }}</li>{{ end }}
   </ul>
 </details>
 <details>
   <summary><h3>🔨 My recent Pull Requests</h3></summary>
-  <ul>
-    {{ range recentPullRequests 5 }}
-    <li>
-      <a href="{{ .URL }}">{{ .Title }}</a> on
-      <a href="{{ .Repo.URL }}">{{ .Repo.Name }}</a>
-    </li>
-    {{ end }}
+  <ul>{{ range recentPullRequests 5 }}<li><a href="{{ .URL }}">{{ .Title }}</a> on<a href="{{ .Repo.URL }}">{{ .Repo.Name }}</a></li>{{ end }}
   </ul>
 </details>
 <details>
   <summary><h3>🔭 Latest releases I've contributed to</h3></summary>
-  <ul>
-    {{ range recentReleases 5 }}
-    <li>
-      <a href="{{ .URL }}">{{ .Name }}</a> [`{{ .LastRelease.TagName }}`]({{
-      .LastRelease.URL }}) - {{ .Description }}
-    </li>
-    {{ end }}
+  <ul>{{ range recentReleases 5 }}<li><a href="{{ .URL }}">{{ .Name }}</a> [`{{ .LastRelease.TagName }}`]({{ .LastRelease.URL }}) - {{ .Description }}</li>{{ end }}
   </ul>
 </details>
 <details>
   <summary><h3>⭐ Recent Stars</h3></summary>
-  <ul>
-    {{ range recentStars 5 }}
-    <li>
-      <a href="{{ .Repo.URL }}">{{ .Repo.Name }}</a> - {{ .Repo.Description }}
-    </li>
-    {{ end }}
+  <ul>{{ range recentStars 5 }}<li><a href="{{ .Repo.URL }}">{{ .Repo.Name }}</a> - {{ .Repo.Description }}</li>{{ end }}
   </ul>
 </details>
 <details>
   <summary><h3>💖 Recent followers</h3></summary>
-  <ul>
-    {{ range followers 5 }}
-    <li><a href="{{ .URL }}">**@{{ .Login }}**</a></li>
-    {{ end }}
+  <ul>{{ range followers 5 }}<li><a href="{{ .URL }}">**@{{ .Login }}**</a></li>{{ end }}
   </ul>
 </details>
 
