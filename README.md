@@ -10,7 +10,7 @@
   <a href="https://www.twitch.tv/jonathanxd12_">Twitch</a>
 </p>
 
-Hallo mein Name ist Jonathan und ich bin 19 Jahre alt. Aktuell bin ich im 4. Lehrjahr als Informatiker - Applikationsentwicklung. Ich wohne in Egg bei Einsiedeln im Kanton Schwyz. Das Programmieren fasziniert mich sehr und ich finde es spannend, was man damit alles erreichen kann. In meiner Freizeit spiele ich gerne Computer -und Konsolenspiele und treffe mich oft mit Freunden. Ausserdem höre ich häufig Musik und produziere sie auch manchmal selbst.
+I'm 19 years old and from Switzerland. From an early age, I was fascinated by computers, and this passion has stayed with me ever since. My first steps into programming were through Minecraft Commands and Command Blocks, which sparked my fascination for the world of software development. Currently, I'm in my 4 year of apprenticeship as a software engineer and I work in a field that is constantly evolving and full of new challenges. I find it fascinating what can be achieved with code. From complex applications to innovative approaches. The nearly unlimited possibilities excite me, and I especially love bringing creative projects to life in the digital world. When I'm not coding, I enjoy playing computer and console games or spending time with my friends. Music often accompanies me throughout the day and is an important part of my life too.
 
 <img
   align="right"
@@ -21,7 +21,7 @@ Hallo mein Name ist Jonathan und ich bin 19 Jahre alt. Aktuell bin ich im 4. Leh
 - 🔭 I’m currently working at Swisscom
 - 🌱 I’m currently learning Nuxt
 - 👯 I’m looking to collaborate with other developers & become a better person every day!
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with the things I'm struggling with
 - 💬 Ask me about programming, music, movies, star wars
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
@@ -132,36 +132,36 @@ Hallo mein Name ist Jonathan und ich bin 19 Jahre alt. Aktuell bin ich im 4. Leh
 <details>
   <summary><h3>👷 Check out what I'm currently working on</h3></summary>
   <ul><li>
-      <a href="https://github.com/Emilijan08/Online-Shop-Frontend">Emilijan08/Online-Shop-Frontend</a> - </li><li>
-      <a href="https://github.com/Emilijan08/Online-Shop-Backend">Emilijan08/Online-Shop-Backend</a> - </li><li>
-      <a href="https://github.com/JonathanXDR/Atom-Blog">JonathanXDR/Atom-Blog</a> - 📖 Blog for Atom, the hackable text editor.</li><li>
-      <a href="https://github.com/JonathanXDR/Atom">JonathanXDR/Atom</a> - A recreation of the Atom.io website using Next.js, preserving its design and content as it was on December 15, 2022, the official sunset date of the Atom project.</li><li>
-      <a href="https://github.com/JonathanXDR/Dotfiles">JonathanXDR/Dotfiles</a> - My dotfiles</li>
+      <a href="https://github.com/JonathanXDR/Dotfiles">JonathanXDR/Dotfiles</a> - My dotfiles</li><li>
+      <a href="https://github.com/shiyangzhaoa/css-modules-to-tailwind">shiyangzhaoa/css-modules-to-tailwind</a> - Tailwind css convert tool</li><li>
+      <a href="https://github.com/JonathanXDR/TypeORM-To-Prisma-Codemod">JonathanXDR/TypeORM-To-Prisma-Codemod</a> - A comprehensive codemod for automatically migrating NestJS applications from TypeORM to Prisma.</li><li>
+      <a href="https://github.com/JonathanXDR/Memory">JonathanXDR/Memory</a> - </li><li>
+      <a href="https://github.com/JonathanXDR/Application-Website-Frontend">JonathanXDR/Application-Website-Frontend</a> - My Personal Website</li>
   </ul>
 </details>
 <details>
   <summary><h3>🌱 My latest projects</h3></summary>
-  <ul><li><a href="https://github.com/JonathanXDR/Atom-Blog">JonathanXDR/Atom-Blog</a> - 📖 Blog for Atom, the hackable text editor.</li><li><a href="https://github.com/JonathanXDR/M323">JonathanXDR/M323</a> - Funktional programmieren</li><li><a href="https://github.com/JonathanXDR/ICT-Regional-Championships-2024-Prep-Tasks-Trade-17">JonathanXDR/ICT-Regional-Championships-2024-Prep-Tasks-Trade-17</a> - </li><li><a href="https://github.com/JonathanXDR/M183">JonathanXDR/M183</a> - Applikationssicherheit implementieren</li><li><a href="https://github.com/JonathanXDR/UEK-335">JonathanXDR/UEK-335</a> - Mobile-Applikation realisieren</li>
+  <ul><li><a href="https://github.com/JonathanXDR/TypeORM-To-Prisma-Codemod">JonathanXDR/TypeORM-To-Prisma-Codemod</a> - A comprehensive codemod for automatically migrating NestJS applications from TypeORM to Prisma.</li><li><a href="https://github.com/JonathanXDR/M324">JonathanXDR/M324</a> - DevOps-Prozesse mit Tools unterstützen</li><li><a href="https://github.com/JonathanXDR/M321">JonathanXDR/M321</a> - Verteilte Systeme programmieren</li><li><a href="https://github.com/JonathanXDR/M323">JonathanXDR/M323</a> - Funktional programmieren</li><li><a href="https://github.com/JonathanXDR/Atom-Blog">JonathanXDR/Atom-Blog</a> - 📖 Blog for Atom, the hackable text editor.</li>
   </ul>
 </details>
 <details>
   <summary><h3>🔨 My recent Pull Requests</h3></summary>
-  <ul><li><a href="https://github.com/JonathanXDR/Memory/pull/8">[Snyk] Upgrade vue from 3.4.25 to 3.4.26</a> on<a href="https://github.com/JonathanXDR/Memory">JonathanXDR/Memory</a></li><li><a href="https://github.com/JonathanXDR/Atom/pull/25">[Snyk] Fix for 6 vulnerabilities</a> on<a href="https://github.com/JonathanXDR/Atom">JonathanXDR/Atom</a></li><li><a href="https://github.com/JonathanXDR/Note-Library-Backend/pull/14">[Snyk] Upgrade @prisma/client from 5.12.1 to 5.13.0</a> on<a href="https://github.com/JonathanXDR/Note-Library-Backend">JonathanXDR/Note-Library-Backend</a></li><li><a href="https://github.com/JonathanXDR/Atom/pull/24">[Snyk] Security upgrade next from 14.1.0 to 14.1.1</a> on<a href="https://github.com/JonathanXDR/Atom">JonathanXDR/Atom</a></li><li><a href="https://github.com/JonathanXDR/Note-Library-Backend/pull/13">[Snyk] Upgrade: @nestjs/common, @nestjs/core, @nestjs/platform-express</a> on<a href="https://github.com/JonathanXDR/Note-Library-Backend">JonathanXDR/Note-Library-Backend</a></li>
+  <ul><li><a href="https://github.com/JonathanXDR/Atom/pull/47">[Snyk] Security upgrade next from 14.2.6 to 14.2.24</a> on<a href="https://github.com/JonathanXDR/Atom">JonathanXDR/Atom</a></li><li><a href="https://github.com/JonathanXDR/Game-Library-Frontend/pull/49">[Snyk] Upgrade vue-router from 4.5.0 to 4.5.1</a> on<a href="https://github.com/JonathanXDR/Game-Library-Frontend">JonathanXDR/Game-Library-Frontend</a></li><li><a href="https://github.com/JonathanXDR/Game-Library-Frontend/pull/48">[Snyk] Upgrade core-js from 3.41.0 to 3.42.0</a> on<a href="https://github.com/JonathanXDR/Game-Library-Frontend">JonathanXDR/Game-Library-Frontend</a></li><li><a href="https://github.com/JonathanXDR/Game-Library-Frontend/pull/47">[Snyk] Upgrade axios from 1.8.4 to 1.9.0</a> on<a href="https://github.com/JonathanXDR/Game-Library-Frontend">JonathanXDR/Game-Library-Frontend</a></li><li><a href="https://github.com/JonathanXDR/Note-Library-Backend/pull/28">[Snyk] Security upgrade bcrypt from 5.1.1 to 6.0.0</a> on<a href="https://github.com/JonathanXDR/Note-Library-Backend">JonathanXDR/Note-Library-Backend</a></li>
   </ul>
 </details>
 <details>
   <summary><h3>🔭 Latest releases I've contributed to</h3></summary>
-  <ul><li><a href="https://github.com/JonathanXDR/Application-Website-Frontend">JonathanXDR/Application-Website-Frontend</a> [`v2.2.6`](https://github.com/JonathanXDR/Application-Website-Frontend/releases/tag/v2.2.6) - My Personal Website</li><li><a href="https://github.com/Homebrew/homebrew-cask">Homebrew/homebrew-cask</a> [`v0.60.1`](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries</li>
+  <ul><li><a href="https://github.com/shiyangzhaoa/css-modules-to-tailwind">shiyangzhaoa/css-modules-to-tailwind</a> [`0.3.4`](https://github.com/shiyangzhaoa/css-modules-to-tailwind/releases/tag/0.3.4) - Tailwind css convert tool</li><li><a href="https://github.com/mvrlin/nuxt-viewport">mvrlin/nuxt-viewport</a> [`v2.3.1`](https://github.com/mvrlin/nuxt-viewport/releases/tag/v2.3.1) - 🌈  Define custom viewports for your Nuxt project</li><li><a href="https://github.com/JonathanXDR/Application-Website-Frontend">JonathanXDR/Application-Website-Frontend</a> [`v3.0.10`](https://github.com/JonathanXDR/Application-Website-Frontend/releases/tag/v3.0.10) - My Personal Website</li><li><a href="https://github.com/JonathanXDR/M324">JonathanXDR/M324</a> [`v1.2.0`](https://github.com/JonathanXDR/M324/releases/tag/v1.2.0) - DevOps-Prozesse mit Tools unterstützen</li>
   </ul>
 </details>
 <details>
   <summary><h3>⭐ Recent Stars</h3></summary>
-  <ul><li><a href="https://github.com/pwndoc/pwndoc">pwndoc/pwndoc</a> - Pentest Report Generator</li><li><a href="https://github.com/standard/eslint-config-standard">standard/eslint-config-standard</a> - ESLint Config for JavaScript Standard Style</li><li><a href="https://github.com/omondi8399/Github-Clone">omondi8399/Github-Clone</a> - This is a comprehensive Next.js GitHub Homepage template that incorporates powerful and popular web development libraries and practices. Developed using Next.js, Tailwind CSS, Framer Motion, and React String,</li><li><a href="https://github.com/mukulrajpoot262610/gist-clone">mukulrajpoot262610/gist-clone</a> - </li><li><a href="https://github.com/Fredkiss3/gh-next">Fredkiss3/gh-next</a> - A minimal Github clone built on nextjs app router.</li>
+  <ul><li><a href="https://github.com/motiondivision/motion-vue">motiondivision/motion-vue</a> - Motion for Vue</li><li><a href="https://github.com/h3js/h3">h3js/h3</a> - ⚡️ Minimal H(TTP) framework built for high performance and portability </li><li><a href="https://github.com/ProxymanApp/Proxyman">ProxymanApp/Proxyman</a> - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️</li><li><a href="https://github.com/juliangarnier/anime">juliangarnier/anime</a> - JavaScript animation engine</li><li><a href="https://github.com/nitrojs/nitro">nitrojs/nitro</a> - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.</li>
   </ul>
 </details>
 <details>
   <summary><h3>💖 Recent followers</h3></summary>
-  <ul><li><a href="https://github.com/Emilijan08">**@Emilijan08**</a></li><li><a href="https://github.com/Juzuvli">**@Juzuvli**</a></li><li><a href="https://github.com/george0st">**@george0st**</a></li><li><a href="https://github.com/simylein">**@simylein**</a></li><li><a href="https://github.com/Maxi03milian">**@Maxi03milian**</a></li>
+  <ul><li><a href="https://github.com/kyle006">**@kyle006**</a></li><li><a href="https://github.com/yingsiulau">**@yingsiulau**</a></li><li><a href="https://github.com/PurpleDatabase">**@PurpleDatabase**</a></li><li><a href="https://github.com/4444TENSEI">**@4444TENSEI**</a></li><li><a href="https://github.com/zhouxinyu">**@zhouxinyu**</a></li>
   </ul>
 </details>
 
