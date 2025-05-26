@@ -10,7 +10,7 @@
   <a href="https://www.twitch.tv/jonathanxd12_">Twitch</a>
 </p>
 
-Hallo mein Name ist Jonathan und ich bin 18 Jahre alt. Aktuell bin ich im 3. Lehrjahr als Informatiker - Applikationsentwicklung. Ich wohne in Egg bei Einsiedeln im Kanton Schwyz. Das Programmieren fasziniert mich sehr und ich finde es spannend, was man damit alles erreichen kann. In meiner Freizeit spiele ich gerne Computer -und Konsolenspiele und treffe mich oft mit Freunden. Ausserdem höre ich häufig Musik und produziere sie auch manchmal selbst.
+I'm 19 years old and from Switzerland. From an early age, I was fascinated by computers, and this passion has stayed with me ever since. My first steps into programming were through Minecraft Commands and Command Blocks, which sparked my fascination for the world of software development. Currently, I'm in my 4 year of apprenticeship as a software engineer and I work in a field that is constantly evolving and full of new challenges. I find it fascinating what can be achieved with code. From complex applications to innovative approaches. The nearly unlimited possibilities excite me, and I especially love bringing creative projects to life in the digital world. When I'm not coding, I enjoy playing computer and console games or spending time with my friends. Music often accompanies me throughout the day and is an important part of my life too.
 
 <img
   align="right"
@@ -21,7 +21,7 @@ Hallo mein Name ist Jonathan und ich bin 18 Jahre alt. Aktuell bin ich im 3. Leh
 - 🔭 I’m currently working at Swisscom
 - 🌱 I’m currently learning Nuxt
 - 👯 I’m looking to collaborate with other developers & become a better person every day!
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with the things I'm struggling with
 - 💬 Ask me about programming, music, movies, star wars
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
